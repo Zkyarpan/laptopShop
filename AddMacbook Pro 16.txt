@@ -1,0 +1,18 @@
+
+		                             laptop Added                  
+
+		__________________________________________________________________________
+		                          Laptop Name       : Macbook Pro 16
+		                          Laptop company    : Apple
+		                          Laptop Price      : $3500
+		                          Laptop Quantity   : 150
+		                          Generation        : i5 9th Gen
+		                          Graphics Card     : GTX 3070
+		                          Stock added       : 100
+		                          Shipping Company  : hima a
+		                          Shipping Cost     : $1000
+		                          Delivery Date     : 2023 - 5 - 8
+		                          Delivery Time     : 10 : 25
+		__________________________________________________________________________
+		          __________________________________________________              
+		__________________________________________________________________________

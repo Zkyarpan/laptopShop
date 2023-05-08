@@ -1,0 +1,18 @@
+
+		                             laptop Added                  
+
+		__________________________________________________________________________
+		                          Laptop Name       : XPS
+		                          Laptop company    : Dell
+		                          Laptop Price      : $1976
+		                          Laptop Quantity   : 20
+		                          Generation        : i5 9th Gen
+		                          Graphics Card     : GTX 3070
+		                          Stock added       : 5
+		                          Shipping Company  : rr aaa lalal
+		                          Shipping Cost     : $90
+		                          Delivery Date     : 2023 - 5 - 8
+		                          Delivery Time     : 10 : 47
+		__________________________________________________________________________
+		          __________________________________________________              
+		__________________________________________________________________________

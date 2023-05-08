@@ -1,0 +1,18 @@
+
+		                             laptop Added                  
+
+		__________________________________________________________________________
+		                          Laptop Name       : Razer Blade
+		                          Laptop company    : Razer
+		                          Laptop Price      : $2000
+		                          Laptop Quantity   : 100
+		                          Generation        : i7 7th Gen
+		                          Graphics Card     : GTX 3060
+		                          Stock added       : 80
+		                          Shipping Company  : jasd lj
+		                          Shipping Cost     : $188
+		                          Delivery Date     : 2023 - 5 - 8
+		                          Delivery Time     : 15 : 47
+		__________________________________________________________________________
+		          __________________________________________________              
+		__________________________________________________________________________
